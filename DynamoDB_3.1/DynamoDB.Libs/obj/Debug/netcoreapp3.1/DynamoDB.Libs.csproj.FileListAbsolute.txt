@@ -1,0 +1,8 @@
+C:\Users\Danilo\source\repos\DynamoDB_3.1\DynamoDB.Libs\bin\Debug\netcoreapp3.1\DynamoDB.Libs.deps.json
+C:\Users\Danilo\source\repos\DynamoDB_3.1\DynamoDB.Libs\bin\Debug\netcoreapp3.1\DynamoDB.Libs.dll
+C:\Users\Danilo\source\repos\DynamoDB_3.1\DynamoDB.Libs\bin\Debug\netcoreapp3.1\DynamoDB.Libs.pdb
+C:\Users\Danilo\source\repos\DynamoDB_3.1\DynamoDB.Libs\obj\Debug\netcoreapp3.1\DynamoDB.Libs.csprojAssemblyReference.cache
+C:\Users\Danilo\source\repos\DynamoDB_3.1\DynamoDB.Libs\obj\Debug\netcoreapp3.1\DynamoDB.Libs.AssemblyInfoInputs.cache
+C:\Users\Danilo\source\repos\DynamoDB_3.1\DynamoDB.Libs\obj\Debug\netcoreapp3.1\DynamoDB.Libs.AssemblyInfo.cs
+C:\Users\Danilo\source\repos\DynamoDB_3.1\DynamoDB.Libs\obj\Debug\netcoreapp3.1\DynamoDB.Libs.dll
+C:\Users\Danilo\source\repos\DynamoDB_3.1\DynamoDB.Libs\obj\Debug\netcoreapp3.1\DynamoDB.Libs.pdb
